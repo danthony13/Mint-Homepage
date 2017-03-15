@@ -1,0 +1,131 @@
+body{
+	font-family: Helvetica
+}
+#logo{
+	display: inline;
+	position: relative;
+	margin: 0 auto;
+	margin-left: 240px;
+}
+header{
+	height: 100px;
+}
+#title{
+	font-size: 30px;
+	font-weight: 300;
+}
+#sign-up{
+	float: right;
+	margin-right: 275px;
+	padding: 5px;
+	position: relative;
+}
+#container{
+	box-shadow: 1px 3px 8px rgba(0, 0, 0, 0.2);
+	width: 690px;
+	height: 700px;
+	margin: 0 auto;
+	clear: both;
+	padding: 0 25px 50px 50px;
+	position: relative;
+}
+aside{
+	float: right;
+	width: 200px;
+	display: inline-block;
+	padding: 10px;
+	height: 640px;
+	}
+label{
+	display: block;
+	padding: 15px;
+}
+.form-box{
+	height: 34px;
+	width: 320px;
+	border-radius: 3px;
+	border: 1px solid #d8d8d8;
+}
+#form-container{
+	width: 450px;
+	position: relative;
+	background-color: white;
+	display: block;
+	float: left;
+}
+#account-info{
+	display: block;
+	padding: 15px;
+	margin-bottom: 20px;
+}
+#right-container{
+	background-color: #f5f5f5;
+	height: 630px;
+	display: inline-block;
+	padding: 21px 19px 17px 40px;
+}
+#right-container-header{
+	color: #666;
+	font-size: 20px;
+	font-weight: 500;
+}
+#right-container-list{
+	color: #666;
+	font-size: 12px;
+	padding: 0 15px 15px 0;
+}
+#right-container-list-item{
+	padding: 10px;
+	font-size: 11px;
+}
+#list-link{
+	color: #666;
+}
+button{
+	border: none;
+	background-color: #45cae6;
+	color: white;
+	height: 34px;
+	cursor: pointer;
+	border-radius: 2px;
+	width: 85px;
+
+}
+#privacy-statement{
+	font-size: 10px;
+	font-color: #666;
+
+}
+#privacy-links{
+	text-decoration: none;
+	color: #45cae6;
+}
+footer{
+
+}
+#footer-links{
+	padding: 50px;
+	margin-left: 200px;
+
+}
+#footer-link-list{
+	list-style-type: none;
+	display: inline;
+	padding: 25px;
+	font-size: 14px;
+	color: #a5a5a5;
+}
+#norton-logo{
+	height: 37px;
+	width: 86px;
+	display: inline;
+	margin-left: 40%;
+	float: left;
+}
+#truste{
+	height: 37px;
+	width: 86px;
+	display: inline;
+	margin-right: 40%;
+	float: right;
+}
